@@ -19,8 +19,10 @@ Button 4: Enable Gas Sensor
 Button 5: Disable the enable sensor.
 ```
 The code and circuit is on link below:
+```
 Link tinkercad: https://www.tinkercad.com/things/7TV0646jwI1-sensor
 Link github: https://github.com/longnhat2k9/arduino-sensor
+```
 
 
 ## Component List
