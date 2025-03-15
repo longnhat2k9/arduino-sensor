@@ -26,8 +26,8 @@ Link github: https://github.com/longnhat2k9/arduino-sensor
 
 ## Social post
 
-- [https://www.instagram.com/arduinocollaboration2k9/](https://www.instagram.com/p/DF10lZrS664/) 
-- [https://www.threads.net/@arduinocollaboration2k9?hl=en](https://www.threads.net/@arduinocollaboration2k9/post/DF10crtzy4_?hl=en)
+- https://www.instagram.com/p/DF10lZrS664/
+- https://x.com/ArduinoP60991/status/1900870987417350249
 
 ## Component List
 <img src="component.png">
